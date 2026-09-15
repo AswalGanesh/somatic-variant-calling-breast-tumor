@@ -1,0 +1,15 @@
+name: var_calling 
+channels:
+  - bioconda
+  - conda-forge
+dependencies:
+  - sra-tools
+  - fastqc
+  - fastp
+  - bwa
+  - samtools
+  - picard
+  - gatk4
+  - snpeff
+  - snpsift
+  - openjdk=21
